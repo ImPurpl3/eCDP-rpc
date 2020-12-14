@@ -5,7 +5,7 @@ import time
 from random import randint
 import sty
 from sty import fg, RgbFg
-from tkinter import *
+from tkinter import Tk
 
 #connecting to discord
 client_id = '785245597279846442'
@@ -61,7 +61,7 @@ r = Tk()
 r.title('eCDP Rich Presence Dashboard')
 
 #window icon
-r.iconbitmap(r'C:\Users\Lenovo\Desktop\Stuff\eCDP Research\RPC\eCDP_rpc.ico')
+r.iconbitmap('eCDP_rpc.ico')
 
 #button variables
 chal = tk.Button(r, text = 'Challenge the McDonalds', width = 50, command = chalRPC) 
