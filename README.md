@@ -1,4 +1,4 @@
-# eCDP-rpc
+# ImPurpl3's eCDP Discord Rich Presence
 Thanks For Using my Rich Presence GUI for eCDP!
 
 1. Run "pre-inst.bat" before using it!
